@@ -2,6 +2,7 @@ html, body{
     background-color: #0064a4;
 }
 
+
 .bg-custom{
     background-color: #ffd200;
 }
@@ -17,7 +18,6 @@ html, body{
 }
 
 .slide{
-    min-height: 480px;
     background-color: #f2f2f2;
 }
 
@@ -54,8 +54,7 @@ html, body{
 }
 
 #content{
-    width: 80%;
-    margin: 32px auto 32px auto;
+    margin: 32px 0 32px 0;
     
 }
 

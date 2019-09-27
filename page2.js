@@ -10,9 +10,9 @@ function getPage2(){
     I can utilize them to bolster my creative expression. One such example of this is using Scalable Vector Graphics (SVG) to
     add an extra dimension of interactivity to any website, expressing strokes and shapes using code.
     </p>
-    <p>
-    With this opportunity as a UI/UX developer, I believe I can further explore this interest at UCI.
-    </p>
+    <p>Below is an SVG image that I designed for my portfolio in progress.</p>
+    <object class="slide-icon" type="image/svg+xml" data="logo.svg">
+    </object>
     `
     return page2;
 }
