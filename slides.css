@@ -58,9 +58,12 @@ html, body{
     
 }
 
-.carousel-inner{
-    padding: 12px 64px 12px 64px;
+@media only screen and (min-width: 400px){
+    .carousel-inner{
+        padding: 12px 64px 12px 64px;
+    }
 }
+
 
 #content p, .nav-item{
     font-family: Helvetica, sans-serif;
