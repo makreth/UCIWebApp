@@ -49,3 +49,6 @@ $('#mainSlides').on('slide.bs.carousel', function (e) {
         });
     }
 })();
+
+this.carouselNormalization();
+

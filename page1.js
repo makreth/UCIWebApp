@@ -8,12 +8,12 @@ I decided to put together this small website in an effort to demonstrate my qual
 </p>
 
 <h3>What are my qualifications?</h3>
-<ul class="list-group list-group-flush">
-  <li class="list-group-item">Lifelong interest in programming since 5th grade</li>
-  <li class="list-group-item">1 year experience with HTML/CSS/JS + SVG, Bootstrap, and ES6 Templating</li>
-  <li class="list-group-item">Taught HTML/CSS/JS at <a href="https://www.thecoderschool.com/locations/irvine/" target="_blank">The Coder School</a></li>
-  <li class="list-group-item">Actively Pursuing Career as a Web Developer</li>
-  <li class="list-group-item">Driven, Ambitious, and Persistent</li>
+<ul>
+  <li>Lifelong interest in programming since 5th grade</li>
+  <li>1 year experience with HTML/CSS/JS + SVG, Bootstrap, and ES6 Templating</li>
+  <li>Taught HTML/CSS/JS at <a href="https://www.thecoderschool.com/locations/irvine/" target="_blank">The Coder School</a></li>
+  <li>Actively Pursuing Career as a Web Developer</li>
+  <li>Driven, Ambitious, and Persistent</li>
 </ul>
     `
     return page1;

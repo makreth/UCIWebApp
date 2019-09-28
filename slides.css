@@ -28,6 +28,16 @@ html, body{
     height: auto;
 }
 
+.carousel{
+    max-height: 750px;
+    overflow: hidden;
+}
+
+.carousel .carousel-inner{
+    width: 100%;
+    height: auto;
+}
+
 .carousel-control-next, .carousel-control-prev{
     color: #ffd200;
     
