@@ -30,21 +30,21 @@ function applyBase(slides){
     return base;
 }
 console.log(applyBase(testing));
-document.getElementById("navbarJS").innerHTML = getNavBar();
+document.getElementById("navbarJS").innerHTML = getNavBar({carousel:true});
 document.getElementById("content").innerHTML = applyBase(testing);
 document.getElementsByClassName("carousel-item")[0].classList.add("active");
 
 $('#mainSlides').on('slide.bs.carousel', function (e) {
-    const items = document.getElementsByClassName("nav-item");
+    const items = document.getElementsByClassName("dropdown-item");
     items[e.from].classList.remove("active");
     items[e.to].classList.add("active");
 });
 
 (function(){
-    const items = document.getElementsByClassName("nav-item");
+    const items = document.getElementsByClassName("dropdown-item");
     for(let i = 0; i < items.length; i++){
         items[i].addEventListener("click", function(e){
-            document.getElementsByClassName("nav-item active")[0].classList.remove('active');
+            document.getElementsByClassName("dropdown-item")[0].classList.remove('active');
             $('.carousel').carousel(i);
         });
     }

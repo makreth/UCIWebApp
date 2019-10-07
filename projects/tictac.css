@@ -1,0 +1,29 @@
+#content{
+    width: 100%;
+}
+
+table{
+    border-collapse: collapse;
+    width: 48vw;
+    height: 48vw;
+    margin: auto;
+}
+
+td{
+    border: solid;
+    width: 33%;
+    height: 33%;
+    margin: 0;
+    text-align: center;
+    font-size: 10vw;
+}
+
+td:hover{
+    background-color:#ffd200;
+}
+
+#msg{
+    text-align: center;
+    font-size: 24px;
+}
+

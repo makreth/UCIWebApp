@@ -1,0 +1,56 @@
+.slide{
+    background-color: #f2f2f2;
+}
+
+.slide-icon{
+    display: block;
+    margin: auto;
+    width: 23%;
+    height: auto;
+}
+
+.carousel{
+    max-height: 750px;
+    overflow: hidden;
+}
+
+.carousel .carousel-inner{
+    width: 100%;
+    height: auto;
+}
+
+.carousel-control-next, .carousel-control-prev{
+    color: #ffd200;
+    
+}
+
+.carousel-control-next:before, .carousel-control-prev:before{
+    position: absolute;
+    background-color: #0064a4;
+    left: 35%;
+    content: "";
+    height: 12%;
+    width: 30%;
+    border: solid;
+    border-radius: 48px;
+    z-index: -300;
+}
+
+.carousel-control-prev{
+    left: -5%;
+}
+
+.carousel-control-next{
+    right: -5%;
+}
+
+#content{
+    margin: 32px 0 32px 0;
+    
+}
+
+@media only screen and (min-width: 400px){
+    .carousel-inner{
+        padding: 12px 64px 12px 64px;
+    }
+}

@@ -1,0 +1,28 @@
+html, body{
+    background-color: #0064a4;
+}
+
+
+.bg-custom{
+    background-color: #ffd200;
+}
+
+.navbar-light .navbar-brand{
+    font-size: 32px;
+    color: #0064a4;
+    padding: 0;
+}
+
+.nav-item{
+    font-size: 18px;
+}
+
+#content p, .nav-item{
+    font-family: Helvetica, sans-serif;
+}
+
+#peter{
+    display: block;
+    margin: 24px auto 0px auto;
+    width: 50%;
+}
