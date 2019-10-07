@@ -1,5 +1,5 @@
 # UCIWebApp
-This is a small project portfolio, designed specifically to apply for the Web Developer position at UCI, written by Duncan Shepherd.
+This is Duncan Shepherd's small project portfolio, designed specifically to apply for the Web Developer position at UCI.
 
 You can find the functioning website hosted by github at https://makreth.github.io/UCIWebApp/
 
