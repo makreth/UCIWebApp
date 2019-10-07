@@ -12,4 +12,6 @@ http://ryanringler.com/blog/2014/08/24/fixed-height-carousel-for-twitter-bootstr
 
 Blackjack Python project embedded with https://repl.it/
 
-All code and other images written/drawn by Duncan Shepherd.
+The anteater was redrawn from a UCI example for animating purposes.
+
+All other code written by Duncan Shepherd.
