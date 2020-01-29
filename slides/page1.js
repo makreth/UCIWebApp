@@ -1,10 +1,7 @@
 function getPage1(){
     const page1 = `
 <h1>Hello UCI!</h1>
-<p>My name is Duncan Shepherd, and I am a junior transfer student here at UCI. I saw a flyer about the request for a student
-web developer, and I couldn't be more excited at starting my career path with the same university I attend!</p>
-<p>
-I decided to put together this small website in an effort to demonstrate my qualifications. Attached to this website are two projects,
+<p>My name is Duncan Shepherd, and I am a junior transfer student here at UCI. I decided to put together this small website in an effort to demonstrate my qualifications. Attached to this website are two projects,
 found in the projects tab in the navigation bar. One is in pure javascript, and the other is an embedded game of blackjack written in Python.
 </p>
 
